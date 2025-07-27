@@ -1,5 +1,3 @@
-# Firebase Studio
+# Loxx the hair salon
 
-This is a NextJS starter in Firebase Studio.
-
-To get started, take a look at src/app/page.tsx.
+static website for hair salon in st albert
