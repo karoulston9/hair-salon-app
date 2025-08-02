@@ -71,6 +71,7 @@ export default function Home() {
               objectFit="cover"
               className="transition-transform duration-500 hover:scale-105"
               data-ai-hint="modern salon"
+              unoptimized
             />
           </div>
         </div>
@@ -99,6 +100,7 @@ export default function Home() {
                       layout="fill"
                       objectFit="cover"
                       data-ai-hint={service.hint}
+                      unoptimized
                     />
                   </div>
                 </CardHeader>
